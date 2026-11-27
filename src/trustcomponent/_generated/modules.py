@@ -38,5 +38,5 @@ class PlatformModule:
         self.events = PlatformEventsApi(api_client)
 
 
-SDK_VERSION = '0.0.1-beta.1'
-API_VERSION = '0.0.1-beta.1'
+SDK_VERSION = '0.0.1-beta.2'
+API_VERSION = '0.0.1-beta.2'
